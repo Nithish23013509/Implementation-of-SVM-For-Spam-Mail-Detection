@@ -87,4 +87,5 @@ accuracy
 ![282243052-7d5ffca2-ba4e-4690-b5d1-524d12659f1c](https://github.com/Nithish23013509/Implementation-of-SVM-For-Spam-Mail-Detection/assets/149038138/1c70231b-3edc-4b5f-a97a-18c0beab29db)
 
 ## Result:
+
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
